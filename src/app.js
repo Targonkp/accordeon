@@ -1,14 +1,14 @@
 export default function () {
 
 
-    function multiplication(...items) {
-        let sum = 1;
-        for (let i = 0; i < items.length; i++) {
-            sum *= items[i];
-        }
-        return sum;
-    }
-
+    // function multiplication(...items) {
+    //     let sum = 1;
+    //     for (let i = 0; i < items.length; i++) {
+    //         sum *= items[i];
+    //     }
+    //     return sum;
+    // }
+    //
 
 
 
